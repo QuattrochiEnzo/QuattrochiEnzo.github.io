@@ -1,0 +1,18 @@
+ILLUSTRATIONS DU PORTFOLIO
+
+Quoridor — photo de Matěj Baťha, 4 novembre 2007.
+Source : https://commons.wikimedia.org/wiki/File:Quoridor_1.jpg
+Original : https://upload.wikimedia.org/wikipedia/commons/8/84/Quoridor_1.jpg
+Licence : Creative Commons Attribution-ShareAlike 2.5 Generic
+https://creativecommons.org/licenses/by-sa/2.5/
+Fichier reproduit sans modification. Photo illustrative du jeu ; ce n’est pas
+une capture de l’agent développé dans le projet.
+
+Formule de Bertsimas–Sim : illustration vectorielle composée pour ce portfolio.
+Référence mathématique : Dimitris Bertsimas et Melvyn Sim (2004),
+The Price of Robustness, Operations Research 52(1), 35–53.
+https://doi.org/10.1287/opre.1030.0065
+Version auteur : https://www.robustopt.com/references/Price%20of%20Robustness.pdf
+
+Les autres visuels ont été fournis par Enzo Quattrochi.
+L’infographie de l’arc frais mentionne Sud Ouest et Agence Hame sur le visuel.
